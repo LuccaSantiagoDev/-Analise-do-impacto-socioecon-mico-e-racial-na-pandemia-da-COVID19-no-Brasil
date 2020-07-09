@@ -1,4 +1,4 @@
-# Analise do impacto socioeconomico e racial na pandemia da COVID19 no Brasil
+# Analise do impacto socioeconômico e racial na pandemia da COVID19 no Brasil
 Projeto da aula de Algoritmo e Logica de Programação da FATEC São José dos Campos.
 
 
